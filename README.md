@@ -1,6 +1,6 @@
 # Create A Treemap & Sunburst Chart In Python Using Plotly & Excel
 
-n this tutorial, I will show you, how to create a Treemap & Sunburst Chart in Python by using the library called Plotly.
+In this tutorial, I will show you, how to create a Treemap & Sunburst Chart in Python by using the library called Plotly.
 
 The data is coming directly from an excel file.
 You can do all the changes in the excel file and after running the code again you will have your updated Treemap/Sunburst.
